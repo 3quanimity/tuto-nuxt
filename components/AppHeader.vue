@@ -1,5 +1,5 @@
 <template>
     <div>
-        Header
-    </div>
+        Header Area: <NuxtLink to="/">Go Home</NuxtLink>
+</div>
 </template>
